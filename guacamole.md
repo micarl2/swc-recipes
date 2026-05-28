@@ -4,3 +4,4 @@
 * lemon
 * salt
 ## Instructions
+The lemon is very optional.
