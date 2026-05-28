@@ -1,2 +1,5 @@
 *.png
 pictures/
+!pictures/not-ignore
+
+
